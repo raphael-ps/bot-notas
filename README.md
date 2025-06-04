@@ -1,3 +1,6 @@
 # Bot Notas
 
-Um dos meus primeiros projetos, feito em 2020. Consiste em um bot para pegar notas dos alunos em uma planilha e cadastrá-las no site da Seduc de forma quase 100% automática, apenas o login deve ser manual. Testado e aprovado, na época.
+Este projeto é um bot em python utilizando a biblioteca Selenium, feito sob medida para o
+site da SEDUC (2020), onde é colocado um arquivo excel na pasta e, ao executar, o bot lê o
+nome de cada aluno e a sua respectiva nota nas planilhas e a cadastra no sistema do
+professor online. O login deve ser feito manualmente. (Descontinuado)
